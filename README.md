@@ -5,7 +5,7 @@ This is a collection of my cyber security projects so far. In here will include:
 2. Extensive Penetration test report for Rekall CTF.
 __________________
 
-coming soon
-Building a security monitoring environment |
+coming soon: 
+ Building a security monitoring environment |
 
 BootCon
