@@ -6,6 +6,4 @@ This is a collection of my cyber security projects so far. In here will include:
 __________________
 
 coming soon: 
- Building a security monitoring environment |
-
-BootCon
+ Building a security monitoring environment | BootCon
