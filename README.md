@@ -9,8 +9,19 @@ This is a collection of my cyber security projects so far. In here will include:
 3. Built a Security Monitoring Environment with Splunk.
 Created and Used simulated example logs of a company's cyber incident (Hack Overflow) to monitor and create alerts, reports and mitagitations strategies.
 
+4. Forensic project on a simulated mobile phone snapshot analyzed with autopsy.
+ -  key finding folders.
+ - Drafted timeline.
+ - Database analysis.
+ - Geolocation analysis and logging.
+ - Evidence collection.
+   : EQUIPMENT AND TOOLS USED.
+ - Kali Linux
+ - Autopsy 
+ - SQL
+ - Google Maps
+ - Epoch Converter
+
+
 
 __________________
-
-coming soon: 
- Building a security monitoring environment | BootCon
